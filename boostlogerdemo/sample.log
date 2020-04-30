@@ -1,0 +1,6 @@
+[2020-04-30 17:30:02.936418] [0x00006194] [trace] TESTTTTTTTTT This is a trace severity message10
+[2020-04-30 17:30:02.938413] [0x00006194] [debug] This is a debug severity message
+[2020-04-30 17:30:02.938413] [0x00006194] [info] This is an informational severity message
+[2020-04-30 17:30:02.938413] [0x00006194] [warning] This is a warning severity message
+[2020-04-30 17:30:02.938413] [0x00006194] [error] This is an error severity message
+[2020-04-30 17:30:02.938413] [0x00006194] [fatal] and this is a fatal severity message
